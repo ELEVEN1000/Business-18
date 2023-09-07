@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Neue Machina';
+    src: url('neue-machina/NeueMachina-Regular.eot');
+    src: local('Neue Machina Regular'), local('NeueMachina-Regular'),
+        url('neue-machina/NeueMachina-Regular.eot?#iefix') format('embedded-opentype'),
+        url('neue-machina/NeueMachina-Regular.woff2') format('woff2'),
+        url('neue-machina/NeueMachina-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neue Machina';
+    src: url('neue-machina/NeueMachina-Ultrabold.eot');
+    src: local('Neue Machina Ultrabold'), local('NeueMachina-Ultrabold'),
+        url('neue-machina/NeueMachina-Ultrabold.eot?#iefix') format('embedded-opentype'),
+        url('neue-machina/NeueMachina-Ultrabold.woff2') format('woff2'),
+        url('neue-machina/NeueMachina-Ultrabold.woff') format('woff'),
+        url('neue-machina/NeueMachina-Ultrabold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
