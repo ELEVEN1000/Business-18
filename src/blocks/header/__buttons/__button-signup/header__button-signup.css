@@ -1,0 +1,13 @@
+.header__button-signup {
+  padding: 14px 37px;
+  border: none;
+  background-color: #151515;
+  color: #FFFFFF;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.header__button-signup:hover {
+  background-color: initial;
+  color: #151515;
+}
