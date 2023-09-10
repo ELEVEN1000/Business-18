@@ -1,0 +1,7 @@
+.hero {
+  margin: 80px auto 0;
+  max-width: 1525px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}

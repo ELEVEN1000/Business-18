@@ -12,3 +12,7 @@
 @import url(../blocks/header/__buttons/__button-login/header__button-login.css);
 @import url(../blocks/header/__buttons/__button-signup/header__button-signup.css);
 
+@import url(../blocks/hero/hero.css);
+@import url(../blocks/hero/__image/hero__image.css);
+@import url(../blocks/hero/__content-title/hero__content-title.css);
+@import url(../blocks/hero/__content-subtitle/hero__content-subtitle.css);
