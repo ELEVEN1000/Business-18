@@ -1,0 +1,9 @@
+.about__title {
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -3px;
+  margin: 0;
+  max-width: 750px;
+}
