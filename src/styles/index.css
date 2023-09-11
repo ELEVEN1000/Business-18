@@ -2,6 +2,7 @@
 @import url(../vendor/fonts/fonts.css);
 @import url(../blocks/root/root.css);
 @import url(../blocks/page/page.css);
+@import url(../blocks/main/main.css);
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
@@ -12,3 +13,10 @@
 @import url(../blocks/header/__buttons/__button-login/header__button-login.css);
 @import url(../blocks/header/__buttons/__button-signup/header__button-signup.css);
 
+@import url(../blocks/hero/hero.css);
+@import url(../blocks/hero/__image/hero__image.css);
+@import url(../blocks/hero/__content-title/hero__content-title.css);
+@import url(../blocks/hero/__content-subtitle/hero__content-subtitle.css);
+@import url(../blocks/hero/__content-email/hero__content-email.css);
+@import url(../blocks/hero/__content-button/hero__content-button.css);
+@import url(../blocks/hero/__content-payments/hero__content-payments.css);

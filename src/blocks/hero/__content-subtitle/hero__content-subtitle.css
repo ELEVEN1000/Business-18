@@ -1,0 +1,9 @@
+.hero__content-subtitle {
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+  max-width: 565px;
+  margin: 0;
+  padding: 20px 0 40px 0;
+}
