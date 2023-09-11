@@ -4,6 +4,7 @@
   max-width: 2280px;
   height: 52px;
   flex-shrink: 0;
+  padding-bottom: 80px;
 }
 
 @media screen and (max-width: 2559px) {
