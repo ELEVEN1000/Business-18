@@ -1,9 +1,9 @@
-.about__title {
+.about__content-title {
   font-size: 60px;
-  font-style: normal;
   font-weight: 400;
-  line-height: normal;
+  line-height: 70px;
   letter-spacing: -3px;
   margin: 0;
   max-width: 750px;
+  padding-top: 15px;
 }

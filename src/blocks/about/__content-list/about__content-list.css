@@ -1,10 +1,10 @@
-.about__list-item {
+.about__content-list {
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
   line-height: 28px;
 }
-.about__list-item::before {
+.about__content-list::before {
   position: relative;
   content: url("../../../images/list.svg");
   top: 7px;
