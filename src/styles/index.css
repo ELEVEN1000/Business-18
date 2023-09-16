@@ -31,3 +31,13 @@
 @import url(../blocks/about/__content-description/about__content-description.css);
 @import url(../blocks/about/__content-lists/about__content-lists.css);
 @import url(../blocks/about/__content-list/about__content-list.css);
+
+@import url(../blocks/howItWorks/howItWorks.css);
+@import url(../blocks/howItWorks/__image/howItWorks__image.css);
+@import url(../blocks/howItWorks/__content/howItWorks__content.css);
+@import url(../blocks/howItWorks/__content-subtitle/howItWorks__content-subtitle.css);
+@import url(../blocks/howItWorks/__content-title/howItWorks__content-title.css);
+@import url(../blocks/howItWorks/__specifications/howItWorks__specifications.css);
+@import url(../blocks/howItWorks/__specification/howItWorks__specification.css);
+@import url(../blocks/howItWorks/__specification-title/howItWorks__specification-title.css);
+@import url(../blocks/howItWorks/__specification-description/howItWorks__specification-description.css);

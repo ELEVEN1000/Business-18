@@ -1,0 +1,30 @@
+.howItWorks__specification {
+  margin: 0;
+}
+.howItWorks__specification:not(:last-child) {
+  padding-bottom: 48px;
+}
+.howItWorks__specification:nth-child(1) {
+  padding-left: 128px;
+  background-position: top left;
+  background-image: url(../../../images/icon1_hiw.svg);
+  background-repeat: no-repeat;
+}
+.howItWorks__specification:nth-child(2) {
+  padding-left: 128px;
+  background-position: top left;
+  background-image: url(../../../images/icon2_hiw.svg);
+  background-repeat: no-repeat;
+}
+.howItWorks__specification:nth-child(3) {
+  padding-left: 128px;
+  background-position: top left;
+  background-image: url(../../../images/icon3_hiw.svg);
+  background-repeat: no-repeat;
+}
+.howItWorks__specification:nth-child(4) {
+  padding-left: 128px;
+  background-position: top left;
+  background-image: url(../../../images/icon4_hiw.svg);
+  background-repeat: no-repeat;
+}
