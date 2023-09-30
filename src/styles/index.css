@@ -65,3 +65,12 @@
 @import url(../blocks/pricing/__block-list/_black/pricing__block-list_black.css);
 @import url(../blocks/pricing/__block/_black/pricing__block-price_black.css);
 
+@import url(../blocks/faqs/faqs.css);
+@import url(../blocks/faqs/__content/faqs__content.css);
+@import url(../blocks/faqs/___content-subtitle/faqs__content-subtitle.css);
+@import url(../blocks/faqs/__content-title/faqs__content-title.css);
+@import url(../blocks/faqs/__content-description/faqs__content-description.css);
+@import url(../blocks/faqs/__content-questions/faqs__content-questions.css);
+@import url(../blocks/faqs/__image/faqs__image.css);
+
+

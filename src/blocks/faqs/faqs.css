@@ -1,0 +1,4 @@
+.faqs {
+  display: flex;
+  justify-content: space-between;
+}
