@@ -1,0 +1,5 @@
+.pricing__blocks {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 60px;
+}

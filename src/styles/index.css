@@ -41,3 +41,27 @@
 @import url(../blocks/howItWorks/__specification/howItWorks__specification.css);
 @import url(../blocks/howItWorks/__specification-title/howItWorks__specification-title.css);
 @import url(../blocks/howItWorks/__specification-description/howItWorks__specification-description.css);
+
+@import url(../blocks/pricing/pricing.css);
+@import url(../blocks/pricing/__headings/pricing__headings.css);
+@import url(../blocks/pricing/__headings-image/pricing__headings-image.css);
+@import url(../blocks/pricing/__headings-content/pricing__headings-content.css);
+@import url(../blocks/pricing/__headings-content-subtitle/pricing__headings-content-subtitle.css);
+@import url(../blocks/pricing/__headings-content-title/pricing__headings-content-title.css);
+@import url(../blocks/pricing/__headings-content-description/pricing__headings-content-description.css);
+@import url(../blocks/pricing/__headings-content-description/_black/pricing__block-description_black.css);
+@import url(../blocks/pricing/__blocks/pricing__blocks.css);
+@import url(../blocks/pricing/__block/pricing__block.css);
+@import url(../blocks/pricing/__block-button/pricing__block-button.css);
+@import url(../blocks/pricing/__block-button/_black/pricing__block-button_black.css);
+@import url(../blocks/pricing/__block-price/pricing__block-price.css);
+@import url(../blocks/pricing/__block-price/_black/pricing__block-price_black.css);
+@import url(../blocks/pricing/__block-price/_symbol/pricing__block-price_symbol.css);
+@import url(../blocks/pricing/__block-price/_perMonth/pricing__block-price_perMonth.css);
+@import url(../blocks/pricing/__block-description/pricing__block-description.css);
+@import url(../blocks/pricing/__block-lists/pricing__block-lists.css);
+@import url(../blocks/pricing/__block-lists/_black/pricing__block-lists_black.css);
+@import url(../blocks/pricing/__block-list/pricing__block-list.css);
+@import url(../blocks/pricing/__block-list/_black/pricing__block-list_black.css);
+@import url(../blocks/pricing/__block/_black/pricing__block-price_black.css);
+

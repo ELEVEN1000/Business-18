@@ -1,0 +1,3 @@
+.pricing__block-list_black::before {
+  content: url("../../../../images/list-white.svg");
+}
