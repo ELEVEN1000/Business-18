@@ -1,0 +1,15 @@
+.pricing__block-button {
+  border: none;
+  background-color: #151515;
+  color: #F0F0F0;
+  cursor: pointer;
+  flex-shrink: 0;
+  bottom: 48px;
+  padding: 14px 159px 14px 159px;
+  margin-top: auto;
+  transition: background-color 0.2s ease-in-out;
+}
+.pricing__block-button:hover {
+  background-color: #F0F0F0;
+  color: #151515;
+}

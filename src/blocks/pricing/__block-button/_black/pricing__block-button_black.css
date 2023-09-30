@@ -1,0 +1,8 @@
+.pricing__block-button_black {
+  background-color: #F0F0F0;
+  color: #151515;
+}
+.pricing__block-button_black:hover {
+  background-color: #151515;
+  color: #F0F0F0;
+}
