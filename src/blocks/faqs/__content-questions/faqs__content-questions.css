@@ -1,0 +1,42 @@
+.faqs__content-questions {
+  padding-top: 60px;
+  max-width: 840px;
+}
+.accordion {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 28px;
+  cursor: pointer;
+  padding: 20px 0;
+  width: 100%;
+  text-align: left;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+}
+
+.panel {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+.panel-text {
+  max-width: 765px;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+}
+.accordion:after {
+  content: url("../../../images/plus.svg");
+  font-size: 13px;
+  color: #151515;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: url("../../../images/minus.svg");
+  color: #151515;
+}
