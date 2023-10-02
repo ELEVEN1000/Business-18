@@ -16,11 +16,11 @@
 @import url(../blocks/hero/hero.css);
 @import url(../blocks/hero/__content/hero__content.css);
 @import url(../blocks/hero/__image/hero__image.css);
-@import url(../blocks/hero/____content-subscribe/hero__content-subscribe.css);
+@import url(../blocks/hero/____content-subscribe/btn__subscribe.css);
 @import url(../blocks/hero/__content-title/hero__content-title.css);
 @import url(../blocks/hero/__content-subtitle/hero__content-subtitle.css);
-@import url(../blocks/hero/__content-email/hero__content-email.css);
-@import url(../blocks/hero/__content-button/hero__content-button.css);
+@import url(../blocks/hero/__content-email/btn__subscribe-email.css);
+@import url(../blocks/hero/__content-button/btn__subscribe-button.css);
 @import url(../blocks/hero/__content-payments/hero__content-payments.css);
 
 @import url(../blocks/about/about.css);

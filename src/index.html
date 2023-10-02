@@ -30,8 +30,8 @@
           <h2 class="hero__content-title">Always Track & Analyze Your Business Statistics To Succeed.</h2>
           <p class="hero__content-subtitle">A better way to manage your sales, team, clients & marketing
             — on a single platform. Powerful, affordable & easy.</p>
-          <label class="hero__content-subscribe">
-            <input type="text" class="hero__content-email" placeholder="Enter your email"><button type="submit" class="hero__content-button">Get started</button>
+          <label class="btn__subscribe">
+            <input type="text" class="btn__subscribe-email" placeholder="Enter your email"><button type="submit" class="btn__subscribe-button">Get started</button>
           </label>
           <div class="hero__content-payments">
             <img src="<%=require('./images/VISA.png')%>" alt="Hero payment" class="hero__content-payment">
@@ -42,7 +42,7 @@
         <img src="<%=require('./images/hero__image.png')%>" alt="Hero image" class="hero__image">
       </section>
 
-      <section class="about">
+      <section class="about" id="AboutUs">
         <img src="<%=require('./images/about__image.png')%>" alt="About image" class="about__image">
         <div class="about__content">
           <h3 class="about__content-subtitle">About us</h3>
@@ -60,7 +60,7 @@
         </div>
       </section>
 
-      <section class="howItWorks">
+      <section class="howItWorks" id="HowItWorks">
         <div class="howItWorks__content">
           <h3 class="howItWorks__content-subtitle">How it works</h3>
           <h2 class="howItWorks__content-title">Building the best space for collaboration.</h2>
@@ -95,7 +95,7 @@
         <img src="<%=require('./images/how_it_work-image.png')%>" alt="How it work image" class="howItWorks__image">
       </section>
 
-      <section class="pricing">
+      <section class="pricing" id="Pricing">
         <div class="pricing__headings">
           <img src="<%=require('./images/pricing__image.png')%>" alt="How it work image" class="pricing__headings-image">
           <div class="pricing__headings-content">
@@ -143,7 +143,7 @@
         </div>
       </section>
 
-      <section class="faqs">
+      <section class="faqs" id="FAQs">
         <div class="faqs__content">
           <h3 class="faqs__content-subtitle">Faqs</h3>
           <h2 class="faqs__content-title">Common Questions.</h2>
@@ -181,8 +181,41 @@
         </div>
         <img src="<%=require('./images/faqs_image.png')%>" alt="Faqs image" class="faqs__image">
       </section>
-
     </main>
+    <footer class="footer">
+      <div class="footer__info">
+        <img src="<%=require('./images/footer__logo.svg')%>" alt="Footer logo" class="footer__info-logo">
+        <div class="footer__info-socials">
+          <a href="#" class="footer__info-social"><img src="<%=require('./images/facebook.svg')%>" alt="Facebook" class="footer__info-social-link"></a>
+          <a href="#" class="footer__info-social"><img src="<%=require('./images/twitter.svg')%>" alt="Twitter" class="footer__info-social-link"></a>
+          <a href="#" class="footer__info-social"><img src="<%=require('./images/googleplus.svg')%>" alt="Google plus" class="footer__info-social-link"></a>
+          <a href="#" class="footer__info-social"><img src="<%=require('./images/in.svg')%>" alt="In" class="footer__info-social-link"></a>
+          <a href="#" class="footer__info-social"><img src="<%=require('./images/youtube.svg')%>" alt="Youtube" class="footer__info-social-link"></a>
+        </div>
+        <p class="footer__info-text">
+          Want to recieve our awesome stories?
+        </p>
+        <label class="btn__subscribe">
+          <input type="text" class="btn__subscribe-email" placeholder="Enter your email"><button type="submit" class="btn__subscribe-button">Get started</button>
+        </label>
+        <small class="footer__info-copy">&copy; 18 Design, all rights reserved.</small>
+      </div>
+      <div class="footer__navigations">
+        <ul class="footer__navigation">
+          <li><a href="#AboutUs" class="footer__navigation-link">About us</a></li>
+          <li><a href="#HowItWorks" class="footer__navigation-link">How it works</a></li>
+          <li><a href="#Pricing" class="footer__navigation-link">Pricing</a></li>
+          <li><a href="#FAQs" class="footer__navigation-link">FAQs</a></li>
+        </ul>
+        <ul class="footer__navigation">
+          <li><a href="#" class="footer__navigation-link">Lead generation</a></li>
+          <li><a href="#" class="footer__navigation-link">Customer engagement</a></li>
+          <li><a href="#" class="footer__navigation-link">Customer support</a></li>
+          <li><a href="#" class="footer__navigation-link">Help Center Articles</a></li>
+          <li><a href="#" class="footer__navigation-link">Outbound Messages</a></li>
+        </ul>
+      </div>
+    </footer>
   </div>
 </body>
 </html>

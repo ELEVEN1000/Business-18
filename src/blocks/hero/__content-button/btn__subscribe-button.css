@@ -1,5 +1,4 @@
-.hero__content-button {
-
+.btn__subscribe-button {
   padding: 13px 48px;
   border: none;
   background-color: #151515;
@@ -13,7 +12,7 @@
   line-height: 26px;
 }
 
-.hero__content-button:hover {
+.btn__subscribe-button:hover {
   background-color: initial;
   color: #151515;
 }
