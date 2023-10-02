@@ -56,8 +56,8 @@
 @import url(../blocks/pricing/__block-button/_black/pricing__block-button_black.css);
 @import url(../blocks/pricing/__block-price/pricing__block-price.css);
 @import url(../blocks/pricing/__block-price/_black/pricing__block-price_black.css);
-@import url(../blocks/pricing/__block-price/_symbol/pricing__block-price_symbol.css);
-@import url(../blocks/pricing/__block-price/_perMonth/pricing__block-price_perMonth.css);
+@import url(../blocks/pricing/__block-price/_symbol/pricing__block-price-symbol.css);
+@import url(../blocks/pricing/__block-price/_perMonth/pricing__block-price-perMonth.css);
 @import url(../blocks/pricing/__block-description/pricing__block-description.css);
 @import url(../blocks/pricing/__block-lists/pricing__block-lists.css);
 @import url(../blocks/pricing/__block-lists/_black/pricing__block-lists_black.css);
@@ -72,5 +72,8 @@
 @import url(../blocks/faqs/__content-description/faqs__content-description.css);
 @import url(../blocks/faqs/__content-questions/faqs__content-questions.css);
 @import url(../blocks/faqs/__image/faqs__image.css);
-
+@import url(../blocks/faqs/__content-questions-btn/faqs__content-questions-btn.css);
+@import url(../blocks/faqs/__content-questions-panel/faqs__content-questions-panel.css);
+@import url(../blocks/faqs/__content-questions-btn/_active/faqs__content-questions-btn_active.css);
+@import url(../blocks/faqs/__content-questions-panel-text/faqs__content-questions-panel-text.css);
 

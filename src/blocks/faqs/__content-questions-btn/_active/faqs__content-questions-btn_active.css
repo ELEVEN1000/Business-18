@@ -1,0 +1,4 @@
+.faqs__content-questions-btn_active:after {
+  content: url("../../../../images/minus.svg");
+  color: #151515;
+}
