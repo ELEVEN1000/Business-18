@@ -1,0 +1,12 @@
+.faqs__content-subtitle {
+  box-sizing: border-box;
+  margin: 0 auto 0 0;
+  border: 1px solid #151515;
+  font-size: 14px;
+  font-weight: 800;
+  line-height: 26px;
+  text-transform: uppercase;
+  padding: 6px 19px;
+  max-width: 76px;
+  text-align: center;
+}

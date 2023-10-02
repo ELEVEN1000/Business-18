@@ -1,7 +1,7 @@
-.pricing__block-price_perMonth {
+.pricing__block-price-symbol {
+  padding-right: 10px;
   font-size: 20px;
   font-style: normal;
   font-weight: 800;
   line-height: 28px;
-  letter-spacing: 0;
 }

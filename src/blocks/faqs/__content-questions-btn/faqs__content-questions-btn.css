@@ -1,0 +1,21 @@
+.faqs__content-questions-btn {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 28px;
+  cursor: pointer;
+  padding: 20px 0;
+  width: 100%;
+  text-align: left;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+}
+
+.faqs__content-questions-btn:after {
+  content: url("../../../images/plus.svg");
+  font-size: 13px;
+  color: #151515;
+  float: right;
+  margin-left: 5px;
+}
