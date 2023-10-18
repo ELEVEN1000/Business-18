@@ -4,4 +4,7 @@
   font-weight: normal;
   color: #151515;
   margin: 36px auto 0 auto;
+  display: flex;
+  gap: 200px;
+  flex-direction: column;
 }
