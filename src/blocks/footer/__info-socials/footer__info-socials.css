@@ -1,0 +1,6 @@
+.footer__info-socials {
+  display: flex;
+  gap: 60px;
+  align-items: center;
+  padding-top: 60px;
+}

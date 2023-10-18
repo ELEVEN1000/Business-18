@@ -16,12 +16,16 @@
 @import url(../blocks/hero/hero.css);
 @import url(../blocks/hero/__content/hero__content.css);
 @import url(../blocks/hero/__image/hero__image.css);
-@import url(../blocks/hero/____content-subscribe/hero__content-subscribe.css);
+@import url(../blocks/hero/__content-subscribe/btn__subscribe.css);
 @import url(../blocks/hero/__content-title/hero__content-title.css);
 @import url(../blocks/hero/__content-subtitle/hero__content-subtitle.css);
-@import url(../blocks/hero/__content-email/hero__content-email.css);
-@import url(../blocks/hero/__content-button/hero__content-button.css);
 @import url(../blocks/hero/__content-payments/hero__content-payments.css);
+
+@import url(../blocks/btn/__subscribe-email/btn__subscribe-email.css);
+@import url(../blocks/btn/__subscribe-email/_footer/btn__subscribe-email_footer.css);
+@import url(../blocks/btn/__subscribe-button/btn__subscribe-button.css);
+@import url(../blocks/btn/__subscribe-button/_footer/btn__subscribe-button_footer.css);
+
 
 @import url(../blocks/about/about.css);
 @import url(../blocks/about/__content-subtitle/about__content-subtitle.css);
@@ -76,4 +80,16 @@
 @import url(../blocks/faqs/__content-questions-panel/faqs__content-questions-panel.css);
 @import url(../blocks/faqs/__content-questions-btn/_active/faqs__content-questions-btn_active.css);
 @import url(../blocks/faqs/__content-questions-panel-text/faqs__content-questions-panel-text.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__info/footer__info.css);
+@import url(../blocks/footer/__info-logo/footer__info-logo.css);
+@import url(../blocks/footer/__info-socials/footer__info-socials.css);
+@import url(../blocks/footer/__info-social/footer__info-social.css);
+@import url(../blocks/footer/__info-social-link/footer__info-social-link.css);
+@import url(../blocks/footer/__info-text/footer__info-text.css);
+@import url(../blocks/footer/__info-copy/footer__info-copy.css);
+@import url(../blocks/footer/__navigations/footer__navigations.css);
+@import url(../blocks/footer/__navigation/footer__navigation.css);
+@import url(../blocks/footer/__navigation-link/footer__navigation-link.css);
 
